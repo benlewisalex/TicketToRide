@@ -1,0 +1,13 @@
+apply plugin: 'java-library'
+
+dependencies {
+    compile 'org.mongodb:mongo-java-driver:2.12.3'
+    implementation files('libs/gson-2.8.2.jar')
+    implementation files('libs/json-20160212.jar')
+    implementation files('libs/PersitenceProviderInterfaces.jar')
+    compile project(path: ':Shared')
+
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

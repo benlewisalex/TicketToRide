@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\9d1d3b2ee4ebd92e032e2dd2f44ff085\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\737cb12862505651865a5f74bf26a015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b52b7b0abe52bc64f38668549fa32b0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\8b5b041ec3aa6d2fbff411e8858c9c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\de30beb827da3fbc2d11619d2da77408\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\30f7e90fc9945029a50b2f856223a364\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\a1d67e4ac9f5719a5018ef555b62d9ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\8a0a66e6befad3d523ac6041129c8c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\4904a71c2c374491a0d3eee10bb126e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\129eaa6eec61f8023f03534035f5d324\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c16251456bcfb88b8d8e34cc9879e784\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7f63429c40c8df84bcd2737474615bf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c72fbc5d4a7c7322b89743f1b5cb92c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7facbdfda9cb79a934cda39445278967\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\881a4eb401b4e4394bc504b94acbee45\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efa95257d9caf5efa8553616b312e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\b9790da2d3fafe9421932a2f9a923a37\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\2b0dd3735b1bdcb49733899498af21ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\6211ba7893f6f63a10499f2d43a0b331\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\1cf921b9db6e98dcaf630092a5abd82a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ffed48ddd598e8cf86d7dbbfe11ad57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0868506f7b4f2e495f58d7fb09f9e3e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be83aec019dc024aa79866df5fea1a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8399d7e75ec3e1557b1be4f3b444e019\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:1-11:12
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:4:5-10:43
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\b9790da2d3fafe9421932a2f9a923a37\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\b9790da2d3fafe9421932a2f9a923a37\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\9d1d3b2ee4ebd92e032e2dd2f44ff085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\9d1d3b2ee4ebd92e032e2dd2f44ff085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\737cb12862505651865a5f74bf26a015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\737cb12862505651865a5f74bf26a015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b52b7b0abe52bc64f38668549fa32b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b52b7b0abe52bc64f38668549fa32b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\8b5b041ec3aa6d2fbff411e8858c9c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\8b5b041ec3aa6d2fbff411e8858c9c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\de30beb827da3fbc2d11619d2da77408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\de30beb827da3fbc2d11619d2da77408\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\30f7e90fc9945029a50b2f856223a364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\30f7e90fc9945029a50b2f856223a364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\a1d67e4ac9f5719a5018ef555b62d9ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\a1d67e4ac9f5719a5018ef555b62d9ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\8a0a66e6befad3d523ac6041129c8c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\8a0a66e6befad3d523ac6041129c8c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\4904a71c2c374491a0d3eee10bb126e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\4904a71c2c374491a0d3eee10bb126e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\129eaa6eec61f8023f03534035f5d324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\129eaa6eec61f8023f03534035f5d324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c16251456bcfb88b8d8e34cc9879e784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c16251456bcfb88b8d8e34cc9879e784\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7f63429c40c8df84bcd2737474615bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\7f63429c40c8df84bcd2737474615bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c72fbc5d4a7c7322b89743f1b5cb92c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c72fbc5d4a7c7322b89743f1b5cb92c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7facbdfda9cb79a934cda39445278967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7facbdfda9cb79a934cda39445278967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\0ec2b0d44af5962f9019b475b0992d42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\881a4eb401b4e4394bc504b94acbee45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\881a4eb401b4e4394bc504b94acbee45\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efa95257d9caf5efa8553616b312e9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8efa95257d9caf5efa8553616b312e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\b9790da2d3fafe9421932a2f9a923a37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\b9790da2d3fafe9421932a2f9a923a37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\2b0dd3735b1bdcb49733899498af21ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\2b0dd3735b1bdcb49733899498af21ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\6211ba7893f6f63a10499f2d43a0b331\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\6211ba7893f6f63a10499f2d43a0b331\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\1cf921b9db6e98dcaf630092a5abd82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\1cf921b9db6e98dcaf630092a5abd82a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ffed48ddd598e8cf86d7dbbfe11ad57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3ffed48ddd598e8cf86d7dbbfe11ad57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0868506f7b4f2e495f58d7fb09f9e3e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0868506f7b4f2e495f58d7fb09f9e3e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be83aec019dc024aa79866df5fea1a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be83aec019dc024aa79866df5fea1a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8399d7e75ec3e1557b1be4f3b444e019\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\benle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8399d7e75ec3e1557b1be4f3b444e019\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benle\AndroidStudioProjects\CS_340\app\src\main\AndroidManifest.xml

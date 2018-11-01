@@ -1,0 +1,3 @@
+include ':app', ':Server', ':Shared', ':TestPlugin', ':PersitenceProviderInterfaces', ':lib', ':Mongo', ':Sql'
+include ':Client'
+

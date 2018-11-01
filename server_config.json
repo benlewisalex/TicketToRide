@@ -1,0 +1,16 @@
+[
+  { "plugin_name":"test",
+    "jar_file_path":"file:TestPlugin\\build\\libs\\TestPlugin.jar",
+    "class_path":"phase05_server.cs340.byu.testplugin.PluginTest"
+  },
+
+  { "plugin_name":"mongo",
+    "jar_file_path":"file:Mongo\\build\\libs\\Mongo.jar",
+    "class_path":"MongoPersistenceProvider.MongoPersistenceProvider"
+  },
+
+  { "plugin_name":"sql",
+    "jar_file_path":"file:Sql\\build\\libs\\Sql.jar",
+    "class_path":"sql.PersistenceProvider"
+  }
+]

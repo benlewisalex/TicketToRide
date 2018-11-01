@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/red_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/orange_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/orange"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/yellow_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/yellow"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/green_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/blue_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/blue"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/purple_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/purple"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/white_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/black_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/black"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/wild_cardCount"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/wild"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map2"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".view.DestinationMapView" />
+</LinearLayout>

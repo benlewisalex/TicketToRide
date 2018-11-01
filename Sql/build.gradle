@@ -1,0 +1,12 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation files('libs/PersitenceProviderInterfaces.jar')
+    implementation files('libs/gson-2.8.2.jar')
+    implementation files('libs/json-20160212.jar')
+    compile project(path: ':Shared')
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

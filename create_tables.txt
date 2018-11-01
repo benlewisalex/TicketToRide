@@ -1,0 +1,25 @@
+CREATE TABLE Users (
+    id integer primary key,
+    users text
+);
+CREATE TABLE Games (
+    id integer primary key,
+    games text
+);
+CREATE TABLE ActiveGames (
+    id integer primary key autoincrement,
+    gameID text unique,
+    game text
+);
+CREATE TABLE Chat (
+    id integer primary key autoincrement,
+    gameID text,
+    message text,
+    foreign key (gameID) references ActiveGames (gameID)
+);
+CREATE TABLE Commands (
+    id integer primary key autoincrement,
+    gameID text,
+    command text,
+    foreign key (gameID) references ActiveGames (gameID)
+);

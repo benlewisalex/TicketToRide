@@ -1,0 +1,218 @@
+{"data": [
+    {
+        "country": "Canada",
+        "city": "Montreal",
+        "latitude": "45.5017",
+        "longitude": "73.5673"
+    },
+    {
+        "country": "United States",
+        "city": "Boston",
+        "latitude": "42.3601",
+        "longitude": "71.0589"
+    },
+	{
+        "country": "United States",
+        "city": "New York",
+        "latitude": "40.7128",
+        "longitude": "74.0060"
+    },
+    {
+        "country": "United States",
+        "city": "Washington",
+        "latitude": "38.9072",
+        "longitude": "77.0369"
+    },
+    {
+        "country": "United States",
+        "city": "Raleigh",
+        "latitude": "35.7796",
+        "longitude": "78.6382"
+    },
+    {
+        "country": "United States",
+        "city": "Charleston",
+        "latitude": "32.7765",
+        "longitude": "79.9311"
+    },
+    {
+        "country": "United States",
+        "city": "Miami",
+        "latitude": "25.7617",
+        "longitude": "80.1918"
+    },
+    {
+        "country": "Canada",
+        "city": "Toronto",
+        "latitude": "43.6532",
+        "longitude": "79.3832"
+    },
+    {
+        "country": "United States",
+        "city": "Pittsburgh",
+        "latitude": "40.4406",
+        "longitude": "79.9959"
+    },
+    {
+        "country": "United States",
+        "city": "Atlanta",
+        "latitude": "33.7490",
+        "longitude": "84.3880"
+    },
+    {
+        "country": "United States",
+        "city": "Nashville",
+        "latitude": "36.1627",
+        "longitude": "86.7816"
+    },
+    {
+        "country": "Canada",
+        "city": "Sault St. Marie",
+        "latitude": "46.5136",
+        "longitude": "84.3358"
+    },
+    {
+        "country": "United States",
+        "city": "Chicago",
+        "latitude": "41.8781",
+        "longitude": "87.6298"
+    },
+    {
+        "country": "United States",
+        "city": "Saint Louis",
+        "latitude": "38.6270",
+        "longitude": "90.1994"
+    },
+    {
+        "country": "United States",
+        "city": "Little Rock",
+        "latitude": "34.7465",
+        "longitude": "92.2896"
+    },
+    {
+        "country": "United States",
+        "city": "New Orleans",
+        "latitude": "29.9511",
+        "longitude": "90.0715"
+    },
+    {
+        "country": "United States",
+        "city": "Houston",
+        "latitude": "29.7604",
+        "longitude": "95.3698"
+    },
+    {
+        "country": "United States",
+        "city": "Dallas",
+        "latitude": "32.7767",
+        "longitude": "96.7970"
+    },
+    {
+        "country": "United States",
+        "city": "Oklahoma City",
+        "latitude": "35.4676",
+        "longitude": "97.5164"
+    },
+    {
+        "country": "United States",
+        "city": "Kansas City",
+        "latitude": "39.0997",
+        "longitude": "94.5786"
+    },
+    {
+        "country": "United States",
+        "city": "Omaha",
+        "latitude": "41.2565",
+        "longitude": "95.9345"
+    },
+    {
+        "country": "United States",
+        "city": "Duluth",
+        "latitude": "46.7867",
+        "longitude": "92.1005"
+    },
+    {
+        "country": "Canada",
+        "city": "Winnipeg",
+        "latitude": "49.8951",
+        "longitude": "97.1384"
+    },
+    {
+        "country": "Canada",
+        "city": "Calgary",
+        "latitude": "51.0486",
+        "longitude": "114.0708"
+    },
+    {
+        "country": "United States",
+        "city": "Helena",
+        "latitude": "46.5891",
+        "longitude": "112.0391"
+    },
+    {
+        "country": "United States",
+        "city": "Denver",
+        "latitude": "39.7392",
+        "longitude": "104.9903"
+    },
+    {
+        "country": "United States",
+        "city": "Santa Fe",
+        "latitude": "35.6870",
+        "longitude": "105.9378"
+    },
+    {
+        "country": "United States",
+        "city": "El Paso",
+        "latitude": "31.7619",
+        "longitude": "106.4850"
+    },
+    {
+        "country": "United States",
+        "city": "Phoenix",
+        "latitude": "33.4484",
+        "longitude": "112.0740"
+    },
+    {
+        "country": "United States",
+        "city": "Las Vegas",
+        "latitude": "36.1699",
+        "longitude": "115.1398"
+    },
+    {
+        "country": "United States",
+        "city": "Salt Lake City",
+        "latitude": "40.7608",
+        "longitude": "111.8910"
+    },
+    {
+        "country": "United States",
+        "city": "Los Angeles",
+        "latitude": "34.0522",
+        "longitude": "118.2437"
+    },
+    {
+        "country": "United States",
+        "city": "San Francisco",
+        "latitude": "37.7749",
+        "longitude": "122.4194"
+    },
+    {
+        "country": "United States",
+        "city": "Portland",
+        "latitude": "45.5122",
+        "longitude": "122.6587"
+    },
+    {
+        "country": "United States",
+        "city": "Seattle",
+        "latitude": "47.6062",
+        "longitude": "122.3321"
+    },
+    {
+        "country": "Canada",
+        "city": "Vancouver",
+        "latitude": "49.2827",
+        "longitude": "123.1207"
+    }
+]}

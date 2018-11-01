@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ticket To Ride</string>
+    <string name="login_button">Login"</string>
+    <string name="register_button">Register"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="join_game_button">Join</string>
+    <string name="join">Join</string>
+    <string name="create_game">Create Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="name_field">Name:</string>
+    <string name="players_field">Player Count:</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="players">Players</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="wait_for_start">Waiting for game to start</string>
+    <string name="draw_cards">Draw Cards</string>
+    <string name="select_destinations">Add Destination</string>
+    <string name="claim_route">Claim Route</string>
+    <string name="select_city">Select a Route. If you choose an "Any" route, you must also select a Color.</string>
+    <string name="submit">Submit</string>
+    <string name="ip_address">Server IP Address</string>
+    <string name="port">Server Port Number</string>
+    <string-array name="player_counts">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_destination_map_view">Map</string>
+</resources>
+
